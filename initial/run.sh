@@ -1,1 +1,2 @@
-spring run app.groovy
+cd ../complete
+spring run ../initial/app.groovy

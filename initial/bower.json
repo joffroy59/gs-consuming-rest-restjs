@@ -1,0 +1,22 @@
+{
+  "name": "gs-consuming-rest-restjs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/joffroy59/gs-consuming-rest-restjs",
+  "authors": [
+    "joffroy59 <jerome.offroy@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "curl": "~0.8",
+    "rest": "~1"
+  }
+}

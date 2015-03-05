@@ -1,0 +1,27 @@
+{
+  "name": "rest",
+  "version": "1.3.0",
+  "main": "./browser.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "dependencies": {
+    "when": "~3"
+  },
+  "ignore": [
+    "docs",
+    "test"
+  ],
+  "homepage": "https://github.com/cujojs/rest",
+  "_release": "1.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.3.0",
+    "commit": "0faffd5c1546a0e95ea7687b2d49739c78dcfa54"
+  },
+  "_source": "git://github.com/cujojs/rest.git",
+  "_target": "~1",
+  "_originalSource": "rest",
+  "_direct": true
+}
